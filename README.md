@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abdulahi</h1>
-<h3 align="center">A passionate frontend developer and UI/UX designer from Ethiopia</h3>
+<h1 align="center">Hi There 👋, My Name is Junior</h1>
+<h3 align="center">A Junior Front-End developer, creating seamless user interactions web Apps </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniorworku" alt="juniorworku" /></a> </p>
 
