@@ -1,5 +1,25 @@
 <h1 align="center">Hi There 👋, My Name is Junior</h1>
-<h3 align="center">A Junior Front-End developer and Data Engineer with a solid engineering foundation, specializing in natural language processing, web scraping, machine learning, ETL, data analysis, exploratory data analysis (EDA), and data visualization. </h3>
+<h3 align="center">A dedicated data professional specializing in Machine Learning, Artificial Intelligence, and Deep Learning. I am passionate about leveraging cutting-edge technologies to create high-impact, data-driven solutions that solve real-world problems. I have experience in multiple areas of data science, from data preprocessing and feature engineering to building machine learning models that deliver actionable insights.. </h3>
+
+<h3>
+  Key Skills & Expertise:
+
+📊 Python Proficiency: Advanced in Python programming for data science, automation, and AI applications.
+
+🔍 Web Scraping: Expert in Scrapy, BeautifulSoup, and Selenium for efficient data extraction and web scraping.
+
+📈 Data Science & Machine Learning: Skilled in data exploration, feature engineering, and building predictive models using libraries like Pandas, NumPy, and Scikit-learn.
+
+🤖 Deep Learning & AI: Hands-on experience with TensorFlow, PyTorch, and Keras for developing neural networks and AI models.
+
+🚀 Data Pipelines & APIs: Proficient in building and deploying APIs for machine learning applications using FastAPI, Flask, Docker, and CI/CD tools like GitHub Actions and MLflow.
+
+📊 Data Visualization: Strong in Power BI, Tableau, Matplotlib, and Seaborn for crafting clear and insightful data visualizations and dashboards.
+
+⚙️ DevOps & CI/CD: Skilled in Git, GitHub, and setting up continuous integration/deployment pipelines to streamline development.
+
+☁️ Cloud & Automation Tools: Experience working with Jupyter Notebook, Streamlit, VSCode, and team collaboration tools like Trello and Slack.
+</h3>
 
 ## 📫 Contact Me
 - **Email:** juniorworku@gmail.com
