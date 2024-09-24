@@ -1,9 +1,10 @@
 <h1 align="center">Hi There 👋, My Name is Junior</h1>
-<h3 align="center">A dedicated data professional specializing in Machine Learning, Artificial Intelligence, and Deep Learning. I am passionate about leveraging cutting-edge technologies to create high-impact, data-driven solutions that solve real-world problems. I have experience in multiple areas of data science, from data preprocessing and feature engineering to building machine learning models that deliver actionable insights.. </h3>
+<h3 align="center">A dedicated data professional specializing in Machine Learning, Artificial Intelligence, and Deep Learning, creating high-impact, data-driven solutions that solve real-world problems. I have experience in multiple areas of data science, from data preprocessing and feature engineering to building machine learning models that deliver actionable insights.. </h3>
 
-<h3>
-  Key Skills & Expertise:
+<h3>Key Skills & Expertise:</h3>
 
+<h4>
+  
 📊 Python Proficiency: Advanced in Python programming for data science, automation, and AI applications.
 
 🔍 Web Scraping: Expert in Scrapy, BeautifulSoup, and Selenium for efficient data extraction and web scraping.
@@ -19,7 +20,7 @@
 ⚙️ DevOps & CI/CD: Skilled in Git, GitHub, and setting up continuous integration/deployment pipelines to streamline development.
 
 ☁️ Cloud & Automation Tools: Experience working with Jupyter Notebook, Streamlit, VSCode, and team collaboration tools like Trello and Slack.
-</h3>
+</h4>
 
 ## 📫 Contact Me
 - **Email:** juniorworku@gmail.com
