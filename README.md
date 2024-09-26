@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, My Name is Junior</h1>
-<h3 align="center">A dedicated data professional specializing in Machine Learning, Artificial Intelligence, and Deep Learning, creating high-impact, data-driven solutions that solve real-world problems. I have experience in multiple areas of data science, from data preprocessing and feature engineering to building machine learning models that deliver actionable insights.. </h3>
+<h3 align="center">A dedicated data professional specializing in Machine Learning, Generative AI, and Deep Learning, creating high-impact, data-driven solutions that solve real-world problems. I have experience in multiple areas of data science, from data preprocessing and feature engineering to building machine learning models that deliver actionable insights.. </h3>
 
 <h3>Key Skills & Expertise:</h3>
 
