@@ -55,7 +55,7 @@
 
   
 ## 🌟 Featured Repositories
-[[!ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorworku&repo=credit-risk-analysis&theme=radical)](https://github.com/juniorworku/credit-risk-analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorworku&repo=credit-risk-analysis&theme=radical)](https://github.com/juniorworku/credit-risk-analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorworku&repo=fraud_detection_model&theme=radical)](https://github.com/juniorworku/fraud_detection_model)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=juniorworku&repo=store-sales-prediction&theme=radical)](https://github.com/juniorworku/store-sales-prediction)
 
