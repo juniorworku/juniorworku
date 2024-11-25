@@ -24,7 +24,7 @@
 
 ## 📫 Contact Me
 - **Email:** juniorworku@gmail.com
-- **LinkedIn:** [Junior Worku](https://www.linkedin.com/in/junior-worku-9298b919b)
+- **LinkedIn:** [Junior Worku](https://www.linkedin.com/in/juniorworku)
 - **Phone:** +251-961281237
 
 ## 📊 GitHub Stats
