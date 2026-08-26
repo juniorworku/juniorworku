@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Junior</h1>
+<h1 align="center">Hello there, I'm Junior Worku</h1>
 <h3 align="center">A Machine Learning Engineer, experienced in designing and implementing production AI/ML systems.</h3>
 
 <h3>Key Skills & Expertise:</h3>
