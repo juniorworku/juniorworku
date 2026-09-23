@@ -6,17 +6,17 @@
 
 🤖**Generative AI & LLMs:** Experienced in building RAG applications, AI agents, multi-agent systems, and LLM-powered applications using LangChain, LangGraph, LlamaIndex, Gemini, OpenAI, and Claude.
 
-👁️**Computer Vision & Deep Learning:** Hands-on experience with PyTorch, TensorFlow, Keras, YOLO, SAM2/SAM3, Mask2Former, OpenCV, ONNX, segmentation, object detection, and transfer learning.
+👁️ **Computer Vision & Deep Learning:** Hands-on experience with PyTorch, TensorFlow, Keras, YOLO, SAM2/SAM3, Mask2Former, OpenCV, ONNX, segmentation, object detection, and transfer learning.
 
-🧠**Machine Learning:** Skilled in machine learning, NLP, embeddings, model fine-tuning, LoRA, transfer learning, and building production ML pipelines.
+🧠 **Machine Learning:** Skilled in machine learning, NLP, embeddings, model fine-tuning, LoRA, transfer learning, and building production ML pipelines.
 
-🐍**Python & Backend Engineering:** Advanced in Python with experience building production APIs and backend systems using FastAPI, Flask, and Django.
+🐍 **Python & Backend Engineering:** Advanced in Python with experience building production APIs and backend systems using FastAPI, Flask, and Django.
 
-🔍**RAG & Vector Search:** Experienced with embeddings, semantic search, pgvector, Pinecone, and building retrieval-augmented AI applications.
+🔍 **RAG & Vector Search:** Experienced with embeddings, semantic search, pgvector, Pinecone, and building retrieval-augmented AI applications.
 
-🚀**MLOps & Deployment:** Experienced with Docker, MLflow, ClearML, GitHub Actions, CI/CD, and deploying AI/ML systems to cloud environments.
+🚀 **MLOps & Deployment:** Experienced with Docker, MLflow, ClearML, GitHub Actions, CI/CD, and deploying AI/ML systems to cloud environments.
 
-☁️**Cloud & Data:** Experience with GCP, AWS, Azure, PostgreSQL, Redis, MongoDB, MySQL, Supabase, Azure Document Intelligence, and Google Document AI.
+☁️ **Cloud & Data:** Experience with GCP, AWS, Azure, PostgreSQL, Redis, MongoDB, MySQL, Supabase, Azure Document Intelligence, and Google Document AI.
 
 </h4>
 
@@ -26,10 +26,11 @@
 - **Phone:** +251-961281237
 
 ## 📊 GitHub Stats
-![Junior's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorworku&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorworku&layout=compact&theme=radical)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniorworku" alt="juniorworku" /></a> </p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=juniorworku&show_icons=true&theme=radical" alt="Junior's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=juniorworku&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🛠 Skills
 
